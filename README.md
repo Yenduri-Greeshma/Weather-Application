@@ -17,7 +17,7 @@ Get Weather: Click the "Get Weather" button to retrieve and display the current 
 Setup Instructions
 Clone the Repository:
 
-git clone https://github.com/Alonewolf7467/weather-application.git
+git clone https://github.com/Yenduri-Greeshma/Weather Application.git
 Navigate to the Project Directory:
 
 cd weather-application
@@ -30,6 +30,8 @@ The application uses Bootstrap cards for a clean and modern UI. Here is a sample
 
 Current Weather Card: Displays current weather data.
 Forecast Card: Displays a 5-day weather forecast.
+Image: https://github.com/user-attachments/assets/393bbbe8-69c7-496d-86b5-001de2517d48)
+
 
 Contributing
 If you would like to contribute to this project, please fork the repository and create a pull request with your changes.
