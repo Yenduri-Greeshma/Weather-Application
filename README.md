@@ -18,7 +18,7 @@ Get Weather: Click the "Get Weather" button to retrieve and display the current 
 Setup Instructions
 Clone the Repository:
 
-git clone https://github.com/Yenduri-Greeshma/Weather Application.git
+git clone https://github.com/Yenduri-Greeshma/Weather-Application.git
 Navigate to the Project Directory:
 
 cd weather-application
