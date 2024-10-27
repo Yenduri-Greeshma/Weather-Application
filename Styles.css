@@ -1,0 +1,60 @@
+body {
+    background-color: #CAF0F8;
+    font-family: Arial, sans-serif;
+    color: #03045E;
+}
+.container {
+    max-width: 800px;
+}
+h1 {
+    color: #03045E;
+}
+.main-card {
+    background-color: #90E0EF;
+    border-radius: 15px;
+    border: none;
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+.main-card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
+}
+.card-body {
+    background-color: #ffffff;
+    border-radius: 15px;
+}
+.card-title {
+    color: #0077B6;
+    font-size: 1.5rem;
+}
+.btn-primary {
+    background-color: #00B4D8;
+    border-color: #00B4D8;
+    color: #ffffff;
+    transition: all 0.3s;
+}
+.btn-primary:hover {
+    background-color: #0077B6;
+    border-color: #0077B6;
+}
+.weather-info .card {
+    border-radius: 10px;
+    border: none;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: #90E0EF;
+}
+#forecast {
+    display: flex;
+    overflow-x: auto;
+    padding: 10px 0;
+}
+.forecast-item {
+    min-width: 120px;
+    text-align: center;
+    padding: 10px;
+    margin-right: 10px;
+    background-color: #CAF0F8;
+    border-radius: 8px;
+    color: #03045E;
+}
