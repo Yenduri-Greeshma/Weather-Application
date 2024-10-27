@@ -1,4 +1,5 @@
-Weather Application
+Weather Application:
+
 This Weather Application provides current and forecasted weather information for any city using the OpenWeatherMap API. The application features a modern, responsive design with Bootstrap styling and custom CSS.
 
 Features
